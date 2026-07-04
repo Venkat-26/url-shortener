@@ -1,0 +1,3 @@
+FROM openjdk:22-jdk
+ADD target/url-shortener.jar url-shortener.jar
+ENTRYPOINT ["java",".jar","/url-shortener.jar"]

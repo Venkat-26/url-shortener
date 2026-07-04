@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;url-shortener/DockerFile&apos; to &apos;DockerF=file&apos;" description="Rename resource &apos;DockerFile&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="DockerFile" name="DockerF=file" stamp="1780837661852" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;url-shortener/DockerF=file&apos; to &apos;Dockerfile&apos;" description="Rename resource &apos;DockerF=file&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="DockerF=file" name="Dockerfile" stamp="1780837670769" updateReferences="true"/>
+</session>

@@ -1,0 +1,23 @@
+
+#Springboot
+backend/url-shortner/target/
+backend/url-shortner/.mvn/
+
+#Python
+analytics/.venv/
+analytics/__pycache__/
+analytics/app/__pycache__/
+
+#Docker
+.docker/
+
+
+#IDE
+.idea/
+.vscode/
+*.iml
+
+# logs
+*.log
+
+
